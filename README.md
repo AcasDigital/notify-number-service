@@ -1,4 +1,4 @@
-# notify-number-service
+# Acas Notification Number Service 
 A simple single php file to serve a Notification Reference number via REST
 
 The database is the main Aurora production cluster
